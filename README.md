@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 # 👋 About Me:
 🔭 I’m currently learning for a BSc in computer science at bar ilan university
 
