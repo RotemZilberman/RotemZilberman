@@ -3,7 +3,8 @@
 ### 🎓 B.Sc. Computer Science Graduate | Researcher
 
 I have successfully completed my B.Sc. in Computer Science at **Bar-Ilan University**.
-My primary focus is on **Computer Vision**, **Machine Learning**, **Software Architecture** and **Cyber Security**.
+My primary focus is on **Computer Vision**, **Machine Learning**, and Software Architecture. I am currently working on research involving SignWriting translation and evaluation.
+
 ---
 
 ### 🛠️ Technical Stack
@@ -22,5 +23,5 @@ My primary focus is on **Computer Vision**, **Machine Learning**, **Software Arc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RotemZilberman&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotemZilberman&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" width="400" />
 </div>
