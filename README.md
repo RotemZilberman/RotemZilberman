@@ -3,7 +3,7 @@
 ### 🎓 B.Sc. Computer Science Graduate | Researcher
 
 I have successfully completed my B.Sc. in Computer Science at **Bar-Ilan University**.
-My primary focus is on **Computer Vision**, **Machine Learning**, and Software Architecture. I am currently working on research involving SignWriting translation and evaluation.
+My primary focus is on **Computer Vision**, **Machine Learning**, **Software Architecture** and **Cyber Security**.
 
 ---
 
